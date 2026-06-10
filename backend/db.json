@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "username": "test",
+      "password": "$2a$10$dFc68o4YQcDoOHUHgfWW8Oc7uDaxYfjZDDKYFXdpH25Qrb5sW/yKi",
+      "id": 1
+    }
+  ],
+  "watchlist": []
+}
